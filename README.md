@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aniketap2002
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning data structure using cpp
+- 👀 grinding leetcode
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aniketprajapati168@gmail.com
 
